@@ -209,5 +209,3 @@ function conta(horas, sal_hora){
 }
 
 conta(140,75)
-
-
